@@ -35,7 +35,7 @@ function Update() {
               <label htmlFor='n'>NAME:</label>
               <input type='text' id='n'{...register('name')}/>
               <br/><br/>
-              <input type='submit' value="Add User"></input>
+              <input type='submit' value="Update"></input>
           </form>
       </div>
     </center>

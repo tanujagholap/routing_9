@@ -20,7 +20,7 @@ const Add = () => {
           <form onSubmit={handleSubmit(savedata)}>
               <label htmlFor='r'>ROLL:</label>
               <input type='number' id='r' {...register('roll')}/>
-              <br/>
+              <br/><br/>
               <label htmlFor='n'>NAME:</label>
               <input type='text' id='n'{...register('name')}/>
               <br/><br/>
